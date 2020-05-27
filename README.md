@@ -1,4 +1,4 @@
-### hello-world-course
+# hello-world-course
 Starting the GitHub learning course.
 
 My name is Camile and I'm new at the GitHub community.
@@ -6,7 +6,9 @@ My name is Camile and I'm new at the GitHub community.
 I'm using this project to learn how to use GitHub, so don't bother reading this.
 
 ## Things to help me:
-pandao.github.io/editor.md/en.html
-[![https://imgur.com/LyduwPA](https://imgur.com/LyduwPA "https://imgur.com/LyduwPA")](https://imgur.com/LyduwPA "https://imgur.com/LyduwPA")
+pandao.github.io/editor.md/en.html **(to write README.md)**
+[![](https://i.imgur.com/LyduwPA.png)](https://i.imgur.com/LyduwPA.png)
 
-imgur.com 
+imgur.com **(to make images and paste on the README.md)**
+copy the link below and paste it on the "Address" and "Link" at the pandao.github.io site
+[![](https://i.imgur.com/oP9ZDJb.png)](https://i.imgur.com/oP9ZDJb.png)
