@@ -6,10 +6,10 @@ My name is Camile and I'm new at the GitHub community.
 I'm using this project to learn how to use GitHub, so don't bother reading this.
 
 ## Things to help me:
-### pandao.github.io/editor.md/en.html **(to write README.md)**
+### https://pandao.github.io/editor.md/en.html **(to write README.md)**
 [![](https://i.imgur.com/LyduwPA.png)](https://i.imgur.com/LyduwPA.png)
 
-### imgur.com **(to make images and paste on the README.md)**
+### https://imgur.com **(to make images and paste on the README.md)**
 
 copy the link below and paste it on the "Address" and "Link" at the pandao.github.io site
 
