@@ -22,3 +22,5 @@ copy the link below and paste it on the "Address" and "Link" at the pandao.githu
 ### https://gitforwindows.org/ 
 
 ### https://html-color-codes.info/Codigos-de-Cores-HTML/
+
+### https://www.webdevdrops.com/git-no-windows-github/
