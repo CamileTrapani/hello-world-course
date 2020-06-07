@@ -24,3 +24,5 @@ copy the link below and paste it on the "Address" and "Link" at the pandao.githu
 ### https://html-color-codes.info/Codigos-de-Cores-HTML/
 
 ### https://www.webdevdrops.com/git-no-windows-github/
+
+### https://getbootstrap.com/docs/4.5/components/alerts/ **(to get styles)**
